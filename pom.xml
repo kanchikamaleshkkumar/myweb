@@ -30,13 +30,13 @@
 		<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusid</id>
-                    <name>maven-snapshots</name>
+                    <name>sai</name>
 		    <url>http://10.142.0.13:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusid</id>
-                    <name>maven-releases</name>
+                   <name>sai</name>
 		    <url>http://10.142.0.13:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
